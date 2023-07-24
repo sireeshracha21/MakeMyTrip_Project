@@ -1,4 +1,6 @@
 This is FileB
 FileB modifiedgit 
 FileB New modification Newgit 
-FileB changes to be commited
+FileB changes to be commit
+FileB code new 
+
